@@ -1,0 +1,167 @@
+# IPO (Initial Public Offering) in India — Complete Guide
+
+## What is an IPO?
+
+An IPO (Initial Public Offering) is the process through which a private company offers its shares to the public for the first time on a stock exchange. After an IPO, the company becomes a "publicly listed" company, and its shares can be bought and sold by anyone on the stock exchange (BSE or NSE).
+
+**Why do companies go public?**
+1. **Raise capital**: To fund expansion, pay off debt, or invest in new projects
+2. **Liquidity for founders**: Early investors and founders can sell their shares
+3. **Brand visibility**: Being listed increases credibility and brand recognition
+4. **Employee benefits**: Can offer ESOPs (Employee Stock Ownership Plans) with tradeable shares
+5. **Acquisition currency**: Listed shares can be used for mergers and acquisitions
+
+## The IPO Process in India
+
+### 1. Preparation Phase
+- Company appoints investment banks (called Book Running Lead Managers or BRLMs) to manage the IPO
+- Prepares a Draft Red Herring Prospectus (DRHP) — a detailed document about the company's business, financials, risks, and purpose of the IPO
+- DRHP is filed with SEBI for approval
+- SEBI reviews and approves the prospectus
+
+### 2. Price Discovery — Book Building Process
+Most IPOs in India use the **Book Building** method:
+- Company sets a **price band** (e.g., ₹500 - ₹550 per share)
+- Investors bid within this range
+- Based on demand at various price levels, the final **issue price** (cut-off price) is determined
+- If demand is high, the issue price is set at the upper end of the band
+
+**Fixed Price IPO** (less common): The company sets a fixed price, and investors apply at that price.
+
+### 3. IPO Opens for Subscription
+- IPO is open for bidding for 3-5 working days
+- Three categories of investors:
+  - **Retail Individual Investors (RII)**: Investment up to ₹2 lakh (35% of shares reserved)
+  - **Non-Institutional Investors (NII/HNI)**: Investment above ₹2 lakh (15% of shares reserved)
+  - **Qualified Institutional Buyers (QIB)**: Mutual funds, banks, FIIs (50% of shares reserved)
+
+### 4. Allotment
+- If demand exceeds supply (oversubscribed), allotment is done by lottery for retail investors
+- If subscribed 1x or less, all applicants get shares
+- If oversubscribed, each retail applicant has an equal chance of getting at least 1 lot
+- Allotment is typically done within 6 days after IPO closes
+
+### 5. Listing
+- Shares are listed on BSE/NSE
+- The listing price may be higher (listing gains), lower (listing at discount), or at the issue price
+- After listing, shares trade freely on the exchange
+
+## Key IPO Terms
+
+### Lot Size
+- Minimum number of shares you must apply for
+- Set by the company so that minimum application value is between ₹13,000 - ₹15,000
+- Example: If share price is ₹500, lot size might be 30 shares (₹15,000 minimum)
+
+### Price Band
+- Range within which investors can bid (e.g., ₹780 - ₹800)
+- Lower end = floor price, Upper end = cap price
+- Retail investors can bid at "Cut-off" price — meaning they're willing to pay whatever the final price is
+
+### ASBA (Application Supported by Blocked Amount)
+- When you apply for an IPO, the application money is not debited from your account
+- Instead, it is **blocked** (like a hold) in your bank account
+- Money is debited only if you get allotment
+- If you don't get allotment, the block is removed and money remains in your account
+- This means you earn interest on the blocked amount during the IPO process
+
+### UPI Mandate
+- Retail investors can apply for IPOs using UPI
+- When you apply through a broker app, you receive a UPI mandate request on your UPI app (Google Pay, PhonePe, BHIM)
+- You must **approve** this mandate within the deadline (usually before IPO closes)
+- **IMPORTANT**: If you don't approve the UPI mandate, your application is rejected
+
+## How to Apply for an IPO
+
+### Through a Broker App (Most Common Method):
+1. Open your broker's app (Zerodha, Groww, Angel One, Upstox)
+2. Go to the IPO section
+3. Select the IPO you want to apply for
+4. Choose the number of lots
+5. Enter your bid price (or select "Cut-off")
+6. Enter your UPI ID (e.g., yourname@upi)
+7. Submit the application
+8. Open your UPI app (Google Pay, PhonePe, BHIM)
+9. Approve the mandate request
+10. Done! Wait for allotment results
+
+### Through Net Banking (ASBA):
+1. Log in to your bank's net banking
+2. Go to "IPO Application" or "ASBA" section
+3. Select the IPO
+4. Fill in details and submit
+5. Amount is blocked in your bank account
+
+## Understanding IPO Subscription
+
+IPO subscription shows how many times the IPO has been applied for compared to shares available.
+
+- **1x subscribed**: Demand equals supply — everyone gets shares
+- **3x subscribed**: 3 times more applications than available shares
+- **50x subscribed**: 50 times more demand — very high competition
+
+Example of subscription categories:
+- Retail (RII): 10.5x subscribed
+- HNI (NII): 25x subscribed
+- QIB: 45x subscribed
+- Overall: 30x subscribed
+
+Higher subscription = lower chance of allotment for retail investors. In highly oversubscribed IPOs, retail allotment is done by computerized lottery.
+
+## Grey Market Premium (GMP)
+
+GMP is the unofficial premium at which IPO shares are trading in the grey (unofficial) market before listing.
+
+- **Not regulated** by SEBI — purely speculative
+- Indicates expected listing gains
+- Example: If IPO price is ₹500 and GMP is ₹200, the expected listing price is ₹700
+- **Warning**: GMP is unreliable and can change rapidly. Don't make investment decisions based solely on GMP.
+
+## Listing Gains
+
+Listing gains refer to the profit made if the stock lists above the IPO price.
+
+- If you got allotment at ₹500 and the stock lists at ₹700, your listing gain is ₹200 per share (40%)
+- Some investors apply for IPOs specifically for listing gains and sell on day one
+- Not all IPOs give positive listing gains — some list at a discount (below IPO price)
+
+## SME IPOs
+
+SME (Small and Medium Enterprise) IPOs are IPOs by smaller companies listed on BSE SME or NSE Emerge platforms.
+
+**Key differences from mainboard IPOs:**
+- Smaller issue size (typically ₹10-50 crore)
+- Higher lot sizes (₹1-2 lakh minimum investment)
+- Higher risk but potentially higher returns
+- Less analyst coverage and liquidity
+- Market maker ensures minimum trading activity for 3 years
+- Often see very high subscription (100x-500x)
+
+**Caution**: SME IPOs carry significantly higher risk. Many SME stocks fall sharply after initial listing gains. Only invest money you can afford to lose.
+
+## Other Types of Public Offerings
+
+### FPO (Follow-on Public Offering)
+- When an already listed company issues additional shares to raise more capital
+- Existing shareholders' stake gets diluted
+
+### Rights Issue
+- Existing shareholders are given the right to buy additional shares at a discounted price
+- Proportional to their current holding
+- Example: 1:5 rights issue means for every 5 shares you hold, you can buy 1 new share at the rights price
+
+### OFS (Offer for Sale)
+- Existing shareholders (promoters, PE investors) sell their shares to the public
+- Company doesn't receive any money — it goes to the selling shareholders
+- Common when promoters want to reduce their stake
+
+## Tips for IPO Investing
+
+1. **Read the prospectus**: At minimum, read the "Risk Factors" and "Objects of the Issue" sections
+2. **Check company financials**: Look at revenue growth, profit margins, and debt levels
+3. **Compare with peers**: Is the company priced fairly compared to listed competitors?
+4. **Don't apply blindly**: Not every IPO is worth investing in
+5. **Don't borrow to invest**: Never take loans to apply for IPOs
+6. **Consider long-term holding**: Some IPOs may not give listing gains but can be good long-term investments
+7. **Approve UPI mandate promptly**: Don't forget to approve the mandate on your UPI app
+8. **Apply at cut-off**: Retail investors should usually apply at cut-off price for best allotment chances

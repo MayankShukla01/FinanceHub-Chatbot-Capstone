@@ -1,0 +1,166 @@
+# Taxation on Investments in India
+
+## Capital Gains Tax Overview
+
+When you sell an investment (stocks, mutual funds, property) at a profit, the profit is called a "capital gain" and is taxable. The tax rate depends on how long you held the investment.
+
+**Two types of capital gains:**
+- **Short-Term Capital Gains (STCG)**: Profit from selling assets held for a short period
+- **Long-Term Capital Gains (LTCG)**: Profit from selling assets held for a longer period
+
+The holding period that determines short-term vs long-term varies by asset class.
+
+## Holding Periods (as per Budget 2024)
+
+| Asset | Short-Term (STCG) | Long-Term (LTCG) |
+|-------|-------------------|-------------------|
+| Equity shares (listed) | Less than 12 months | 12 months or more |
+| Equity mutual funds | Less than 12 months | 12 months or more |
+| Debt mutual funds | Any period (from April 2023) | N/A (always STCG) |
+| Property | Less than 24 months | 24 months or more |
+| Gold/Gold ETFs | Less than 24 months | 24 months or more |
+| Bonds (listed) | Less than 12 months | 12 months or more |
+| Bonds (unlisted) | Less than 24 months | 24 months or more |
+
+## STCG (Short-Term Capital Gains) Tax
+
+### On Equity and Equity Mutual Funds:
+- **Tax rate: 20%** (increased from 15% in Union Budget 2024)
+- Applicable when you sell listed equity shares or equity mutual fund units within 12 months of purchase
+- STT (Securities Transaction Tax) must have been paid at the time of purchase
+
+**Example:**
+- You bought 100 shares of TCS at ₹3,000 each (₹3,00,000) in January 2024
+- You sold them in August 2024 at ₹3,500 each (₹3,50,000)
+- STCG = ₹3,50,000 - ₹3,00,000 = ₹50,000
+- Tax at 20% = ₹10,000
+
+### On Debt Mutual Funds (from April 2023):
+- All gains from debt mutual funds are now taxed at your income tax slab rate
+- No distinction between short-term and long-term
+- This change was introduced in Finance Act 2023
+
+### On Other Assets:
+- Taxed at your income tax slab rate (5%, 20%, 30% depending on your total income)
+
+## LTCG (Long-Term Capital Gains) Tax
+
+### On Equity and Equity Mutual Funds:
+- **Tax rate: 12.5%** (increased from 10% in Union Budget 2024)
+- **Exemption limit: ₹1.25 lakh per financial year** (increased from ₹1 lakh)
+- Only gains exceeding ₹1.25 lakh are taxed
+- Applicable when you sell listed equity shares or equity mutual fund units after holding for 12+ months
+
+**Example:**
+- You invested ₹5,00,000 in an equity mutual fund in 2022
+- You sell it in 2024 for ₹8,00,000
+- LTCG = ₹8,00,000 - ₹5,00,000 = ₹3,00,000
+- Exemption: ₹1,25,000
+- Taxable LTCG = ₹3,00,000 - ₹1,25,000 = ₹1,75,000
+- Tax at 12.5% = ₹21,875
+
+**Important**: The ₹1.25 lakh exemption is the total across all equity sales in a financial year, not per fund.
+
+### Indexation Benefit (Removed for most assets from July 2024):
+- Previously, long-term gains on debt funds, property, and gold were calculated after adjusting for inflation (indexation)
+- Union Budget 2024 removed indexation benefit for most assets acquired after July 23, 2024
+- For property acquired before July 23, 2024, taxpayers can choose between 12.5% without indexation or 20% with indexation (whichever is lower)
+
+## Tax on Dividends
+
+### From Stocks:
+- Dividends received from stocks are added to your total income
+- Taxed at your income tax slab rate
+- Company no longer pays Dividend Distribution Tax (DDT) — this was abolished in April 2020
+- TDS of 10% is deducted if total dividend exceeds ₹5,000 in a financial year
+
+### From Mutual Funds:
+- Dividends from mutual funds are also taxed at your income tax slab rate
+- TDS of 10% is deducted if dividend exceeds ₹5,000 in a financial year
+
+**Tip**: Since dividends are now taxed at slab rates, many investors prefer "Growth" option in mutual funds over "IDCW" (Income Distribution cum Capital Withdrawal, formerly called Dividend) option. Growth option defers tax until redemption.
+
+## Section 80C Tax Deductions
+
+Section 80C of the Income Tax Act allows deductions up to ₹1,50,000 per financial year from your taxable income.
+
+### Investment Options Under 80C:
+
+| Investment | Lock-in Period | Returns | Risk |
+|-----------|---------------|---------|------|
+| ELSS Mutual Funds | 3 years | Market-linked (12-15%) | Moderate-High |
+| PPF | 15 years | 7.1% (tax-free) | Very Low |
+| NSC (National Savings Certificate) | 5 years | 7.7% | Very Low |
+| Tax-saver FD | 5 years | 6-7.5% | Very Low |
+| NPS (80CCD(1)) | Till age 60 | Market-linked | Low-Moderate |
+| ULIP | 5 years | Market-linked | Moderate |
+| Life Insurance Premium | Policy term | Varies | Very Low |
+| Sukanya Samriddhi | 21 years | 8.2% | Very Low |
+| EPF (Employee contribution) | Till retirement | 8.25% | Very Low |
+| Home Loan Principal | Loan tenure | N/A | N/A |
+
+### ELSS — Best Tax-Saving Investment for Beginners
+- Shortest lock-in among 80C options (only 3 years)
+- Potential for highest returns (being equity-linked)
+- Can invest via SIP (even ₹500/month)
+- Examples: Axis Long Term Equity Fund, Mirae Asset Tax Saver Fund, Quant ELSS Tax Saver Fund
+
+### Section 80CCD(1B) — Additional NPS Deduction
+- Extra ₹50,000 deduction for NPS contributions (over and above 80C limit)
+- Total tax benefit possible: ₹2,00,000 (80C: ₹1,50,000 + 80CCD(1B): ₹50,000)
+
+## STT (Securities Transaction Tax)
+
+STT is a tax levied on the purchase and sale of securities on Indian stock exchanges.
+
+| Transaction Type | STT Rate |
+|-----------------|----------|
+| Equity Delivery (Buy) | 0.1% |
+| Equity Delivery (Sell) | 0.1% |
+| Equity Intraday (Sell only) | 0.025% |
+| Futures (Sell only) | 0.0125% |
+| Options (Sell only — on premium) | 0.1% |
+| Mutual Fund Units (Sell — on exchange) | 0.001% |
+
+STT is automatically deducted by your broker — you don't need to pay it separately.
+
+**Note**: Union Budget 2024 increased STT on F&O transactions — Options STT increased to 0.1% from 0.0625%, and Futures STT increased to 0.02% from 0.0125%.
+
+## TDS (Tax Deducted at Source) Rules
+
+TDS is the tax automatically deducted before you receive income.
+
+| Income Type | TDS Rate | Threshold |
+|------------|----------|-----------|
+| FD Interest | 10% | ₹40,000/year (₹50,000 for seniors) |
+| Dividend (Stocks) | 10% | ₹5,000/year |
+| Dividend (Mutual Funds) | 10% | ₹5,000/year |
+| EPF Withdrawal (< 5 years) | 10% | ₹50,000 |
+
+**Form 15G/15H**: If your total income is below the taxable limit, you can submit Form 15G (below 60 years) or Form 15H (senior citizens) to your bank to avoid TDS on FD interest.
+
+## ITR (Income Tax Return) Filing for Investors
+
+If you have capital gains from stocks or mutual funds, you need to report them in your Income Tax Return.
+
+### Which ITR Form to Use?
+- **ITR-1 (Sahaj)**: For salary income only (no capital gains) — NOT for stock traders
+- **ITR-2**: For salary + capital gains from stocks/mutual funds — MOST investors use this
+- **ITR-3**: For those with business income (including F&O traders, as F&O is treated as business income)
+
+### Important Points:
+1. **F&O income is business income**: Profits/losses from futures and options are classified as business income (speculative or non-speculative), not capital gains
+2. **Tax audit**: If F&O turnover exceeds ₹10 crore, tax audit under Section 44AB is required
+3. **Carry forward losses**: Capital losses can be carried forward for 8 years and set off against capital gains
+4. **STCL offset**: Short-term capital losses can be set off against both STCG and LTCG
+5. **LTCL offset**: Long-term capital losses can only be set off against LTCG
+
+## Tax-Efficient Investing Tips
+
+1. **Hold equity for 12+ months**: Convert STCG (20%) to LTCG (12.5%) by holding for more than a year
+2. **Use ₹1.25 lakh LTCG exemption**: Sell and rebuy equity investments annually to "book" gains within the exemption limit
+3. **Invest in ELSS for tax saving**: Get Section 80C benefit + market-linked returns
+4. **Choose Growth option in mutual funds**: Defer tax until you sell, instead of paying tax on dividends every year
+5. **Invest in NPS for extra ₹50,000 deduction**: Section 80CCD(1B) saves up to ₹15,000-17,500 in tax
+6. **Use Direct plans**: Lower expense ratio means higher after-tax returns
+7. **Don't let tax tail wag the investment dog**: Make investment decisions first, then optimize for tax

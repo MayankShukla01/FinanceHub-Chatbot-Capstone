@@ -1,0 +1,173 @@
+# Trading in the Indian Stock Market
+
+## Intraday Trading vs Delivery Trading
+
+### Delivery Trading (CNC — Cash and Carry)
+- You buy shares and they are delivered to your Demat account
+- You hold the shares for as long as you want (days, months, years)
+- Settlement: T+1 (shares delivered next trading day)
+- No leverage — you need the full amount to buy
+- Suitable for long-term investors
+- On Zerodha: Select "CNC" product type
+- Brokerage: Usually zero for delivery trades on discount brokers
+
+### Intraday Trading (MIS — Margin Intraday Square-off)
+- You buy and sell shares on the same trading day
+- All positions must be closed (squared off) before market closes (3:15 PM auto square-off on most brokers)
+- Shares never enter your Demat account
+- You can get leverage (margin) — trade with more money than you have
+- Higher risk, requires active monitoring
+- On Zerodha: Select "MIS" product type
+- Brokerage: ₹20 per trade or 0.03% (whichever is lower) on most discount brokers
+
+### NRML (Normal)
+- Used for Futures and Options trading
+- Positions can be carried forward until expiry
+- Requires margin money
+
+## Understanding Stop Loss Orders
+
+A Stop Loss (SL) order is designed to limit your losses on a trade. It automatically triggers a sell order when the stock price falls to a specified level.
+
+**Types of Stop Loss:**
+
+### Stop Loss Market (SL-M)
+- You set a trigger price
+- When the stock hits the trigger price, a market order is placed
+- Guaranteed execution but not guaranteed price
+- Example: You bought at ₹100, set SL-M trigger at ₹95 — if price drops to ₹95, shares are sold at market price
+
+### Stop Loss Limit (SL)
+- You set both a trigger price and a limit price
+- When the trigger is hit, a limit order is placed at the limit price
+- Not guaranteed to execute if the price moves too fast
+- Example: Trigger at ₹95, Limit at ₹94 — if price drops to ₹95, a sell order is placed at ₹94 or better
+
+### Trailing Stop Loss
+- Stop loss that moves with the stock price
+- As the stock goes up, the stop loss moves up automatically
+- Locks in profits while protecting against downside
+- Not all brokers support this natively
+
+## Order Types in Detail
+
+### Market Order
+- Executes immediately at the best available price
+- Use when: You want instant execution and don't mind small price differences
+- Risk: In volatile or illiquid stocks, you may get a worse price than expected (slippage)
+
+### Limit Order
+- Executes only at your specified price or better
+- Buy limit: Executes at your price or lower
+- Sell limit: Executes at your price or higher
+- Use when: You want a specific price and are willing to wait
+
+### GTT (Good Till Triggered) Order
+- A long-term order that remains active until a trigger price is reached
+- Available on Zerodha and some other brokers
+- Valid for 1 year
+- Use when: You want to buy/sell at a future price without monitoring daily
+- Example: Set a GTT to buy Reliance if it drops to ₹2,200 — even if it takes months, the order stays active
+
+### Bracket Order
+- Combines three orders in one: Entry order + Target order + Stop Loss order
+- When the entry order executes, both target and stop loss are placed automatically
+- If one triggers, the other is cancelled
+- Used by intraday traders for disciplined trading
+- Available only for intraday (MIS) on most brokers
+
+### AMO (After Market Order)
+- Orders placed outside market hours (after 3:30 PM or before 9:00 AM)
+- Queued and executed when the market opens next day
+- Useful if you can't trade during market hours
+
+## T+1 Settlement
+
+In India, the stock market follows T+1 (Trade plus 1 day) settlement:
+- **T (Trade day)**: The day you buy or sell shares
+- **T+1**: Shares are delivered to your Demat account (if buying) or money is credited to your bank (if selling) the next trading day
+
+Earlier, India followed T+2 settlement. The move to T+1 in 2023 made Indian markets one of the fastest settling markets in the world.
+
+## Futures and Options (F&O) Basics
+
+F&O are derivative instruments whose value is derived from an underlying asset (usually a stock or index like Nifty 50).
+
+### Futures
+- A contract to buy or sell an asset at a predetermined price on a future date
+- **Obligation** to buy/sell — you must settle the contract
+- Traded in lots (e.g., Nifty futures lot size = 25 units)
+- Requires margin money (typically 10-15% of contract value)
+- Expires on the last Thursday of the month (monthly) or week (weekly for Nifty)
+- Can be used for hedging or speculation
+- High leverage = high risk
+
+**Example**: You buy 1 lot of Nifty futures (25 units) at 22,000. If Nifty goes to 22,500, your profit = (22,500 - 22,000) × 25 = ₹12,500. If it drops to 21,500, your loss = ₹12,500.
+
+### Options
+- A contract that gives you the **right but not obligation** to buy or sell
+- Two types:
+  - **Call Option (CE)**: Right to buy at a specific price (strike price)
+  - **Put Option (PE)**: Right to sell at a specific price (strike price)
+- **Premium**: The price you pay to buy an option
+- **Strike Price**: The price at which you can exercise the option
+- Maximum loss for option buyer = Premium paid
+- Maximum loss for option seller = Unlimited (theoretically)
+
+**Example**: Nifty is at 22,000. You buy a 22,200 Call Option (CE) for ₹100 premium. If Nifty goes to 22,500, your option is worth ₹300 (22,500 - 22,200), so your profit = ₹300 - ₹100 (premium) = ₹200 per unit.
+
+**WARNING**: F&O trading is very risky. SEBI data shows that 9 out of 10 individual F&O traders lose money. Beginners should avoid F&O until they have significant market experience.
+
+## Margin Trading
+
+Margin trading means trading with borrowed money from your broker. It allows you to buy more shares than your available cash.
+
+- **Margin**: The amount you need to deposit to take a position
+- **Leverage**: The ratio of total position to your margin
+- Example: With 5x leverage, ₹20,000 margin lets you trade ₹1,00,000 worth of shares
+- Available for intraday and F&O trading
+- **Risk**: Losses are also magnified — you can lose more than your investment
+- **Margin call**: If your losses exceed a threshold, the broker asks you to deposit more money or closes your position
+
+## Short Selling
+
+Short selling means selling shares you don't own, betting that the price will fall.
+
+### Intraday Short Selling
+- Sell first, buy later (within the same day)
+- If the price drops, you profit from the difference
+- Available for all stocks in intraday (MIS) mode
+- Must square off before market close
+
+### Delivery Short Selling
+- Very risky and not recommended for beginners
+- Requires borrowing shares through Securities Lending and Borrowing (SLB)
+- Additional costs involved
+
+## Candlestick Chart Basics
+
+Candlestick charts show price movement over a time period. Each "candle" shows four data points:
+
+1. **Open**: Price at which the stock started trading in that period
+2. **Close**: Price at which the stock ended trading
+3. **High**: Highest price reached during the period
+4. **Low**: Lowest price reached during the period
+
+**Green/White candle**: Close > Open (price went up — bullish)
+**Red/Black candle**: Close < Open (price went down — bearish)
+
+The thick part is called the "body" and the thin lines are called "wicks" or "shadows."
+
+Common candlestick patterns beginners should know:
+- **Doji**: Open and close are nearly equal — shows indecision
+- **Hammer**: Small body at top, long lower wick — potential reversal from downtrend
+- **Engulfing**: A candle that completely engulfs the previous one — strong reversal signal
+
+## Volume
+
+Volume refers to the total number of shares traded during a specific period.
+
+- **High volume**: Many shares traded — indicates strong interest and conviction
+- **Low volume**: Few shares traded — indicates weak interest
+- **Volume confirms trends**: A price rise on high volume is more reliable than on low volume
+- **Delivery percentage**: The percentage of traded shares that were actually delivered (not squared off intraday). High delivery % suggests genuine buying interest.

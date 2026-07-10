@@ -1,0 +1,118 @@
+# Stock Market Glossary — Key Terms for Indian Investors
+
+## Market Terms
+
+### Bull Market
+A bull market is a period when stock prices are rising or expected to rise. It indicates positive investor sentiment and economic optimism. In India, a bull market is often characterized by Nifty 50 and Sensex hitting new all-time highs. Example: The Indian market rally from March 2020 lows to 2024 highs was a strong bull market.
+
+### Bear Market
+A bear market is a period when stock prices are declining, typically defined as a drop of 20% or more from recent highs. It indicates negative investor sentiment and economic pessimism. Bear markets create buying opportunities for long-term investors. Example: The COVID-19 crash in March 2020 when Sensex fell from 42,000 to 26,000 was a bear market.
+
+### Market Correction
+A temporary decline of 10-20% in stock prices from recent highs. Corrections are normal and healthy for the market. They are shorter and less severe than bear markets. Corrections happen regularly and are not a reason to panic.
+
+### Market Crash
+A sudden, sharp decline in stock prices (more than 20%) often triggered by a specific event (pandemic, financial crisis, war). Examples: 2008 Global Financial Crisis, March 2020 COVID crash, 2015 China slowdown.
+
+### Sideways Market
+When the market moves within a narrow range without a clear upward or downward trend. Neither bulls nor bears dominate. Also called a "range-bound" or "consolidating" market.
+
+## Stock Classification Terms
+
+### Blue Chip Stocks
+Shares of large, well-established, financially sound companies with a long track record of performance. They are considered safe and reliable investments. In India, examples include Reliance Industries, TCS, HDFC Bank, Infosys, ITC, and Hindustan Unilever. Blue chip stocks are typically part of the Nifty 50 or Sensex.
+
+### Penny Stocks
+Stocks trading at very low prices, typically below ₹10-20 per share. They are highly risky, have low liquidity, and are prone to manipulation. While they may offer huge returns, they can also become worthless. Beginners should generally avoid penny stocks. SEBI has strict surveillance measures on penny stocks to prevent fraud.
+
+### Large Cap Stocks
+Companies ranked 1st to 100th by market capitalization on Indian exchanges. These are the biggest and most established companies. Examples: Reliance Industries, TCS, HDFC Bank, Infosys, Bharti Airtel. Lower risk, moderate returns. Most suitable for conservative investors.
+
+### Mid Cap Stocks
+Companies ranked 101st to 250th by market capitalization. These are growing companies with potential to become large caps. Higher growth potential than large caps but also higher risk. Examples: Persistent Systems, Indian Hotels, AU Small Finance Bank. Suitable for moderate risk investors.
+
+### Small Cap Stocks
+Companies ranked 251st and below by market capitalization. These are smaller companies with the highest growth potential but also the highest risk. Prices can be very volatile. Many multibagger stocks (stocks that multiply your investment many times) come from the small-cap space. Suitable only for aggressive investors with a long-term horizon.
+
+### Market Capitalization (Market Cap)
+Market cap is the total value of a company's outstanding shares. Formula: Market Cap = Current Share Price × Total Number of Outstanding Shares. Example: If a company has 1 crore shares at ₹500 each, its market cap is ₹500 crore. Companies are classified as large-cap, mid-cap, or small-cap based on market cap.
+
+## Valuation Metrics
+
+### P/E Ratio (Price-to-Earnings Ratio)
+The most commonly used valuation metric. It tells you how much investors are willing to pay for each rupee of a company's earnings. Formula: P/E = Current Market Price ÷ Earnings Per Share (EPS). Example: If a stock trades at ₹500 and EPS is ₹25, P/E = 500 ÷ 25 = 20x. This means investors pay ₹20 for every ₹1 of earnings. A high P/E may indicate the stock is overvalued or investors expect high future growth. A low P/E may indicate the stock is undervalued or the company has problems. Average P/E for Nifty 50 is around 20-22x historically.
+
+### EPS (Earnings Per Share)
+The portion of a company's profit allocated to each outstanding share. Formula: EPS = Net Profit ÷ Total Outstanding Shares. Example: If a company earns ₹100 crore profit and has 10 crore shares, EPS = ₹10 per share. Higher EPS generally indicates a more profitable company. Compare EPS growth over time to assess if the company is growing.
+
+### Book Value
+The net asset value of a company, calculated as total assets minus total liabilities, divided by the number of outstanding shares. It represents the theoretical value you would receive if the company liquidated all its assets and paid off all its debts. Formula: Book Value Per Share = (Total Assets - Total Liabilities) ÷ Total Shares. A stock trading below book value may be undervalued (or may have fundamental issues).
+
+### Face Value
+The nominal or original value of a share as stated by the company when it was first issued. In India, common face values are ₹1, ₹2, ₹5, or ₹10. Face value is used to calculate dividends. Example: If a company declares a 200% dividend and face value is ₹2, dividend per share = ₹4. Face value is NOT the market price — it remains fixed unless there is a stock split.
+
+### Dividend Yield
+The annual dividend paid by a company expressed as a percentage of its current stock price. Formula: Dividend Yield = (Annual Dividend Per Share ÷ Current Market Price) × 100. Example: Stock price is ₹500, annual dividend is ₹15. Dividend yield = (15/500) × 100 = 3%. Higher dividend yield is attractive for income-seeking investors. Companies with consistent dividends are often stable, mature businesses.
+
+## Financial Ratios
+
+### ROCE (Return on Capital Employed)
+Measures how efficiently a company uses its capital to generate profits. Formula: ROCE = EBIT ÷ Capital Employed × 100. EBIT = Earnings Before Interest and Tax. Capital Employed = Total Assets - Current Liabilities. Higher ROCE (>15%) indicates the company is using its capital efficiently. Useful for comparing companies in the same industry.
+
+### ROE (Return on Equity)
+Measures how much profit a company generates from shareholders' equity. Formula: ROE = Net Income ÷ Shareholders' Equity × 100. A consistently high ROE (>15%) indicates good management and profitable business. Warren Buffett famously looks for companies with high, consistent ROE.
+
+### Debt-to-Equity Ratio
+Measures how much debt a company has relative to its equity (shareholders' money). Formula: D/E = Total Debt ÷ Total Shareholders' Equity. A D/E ratio above 1 means the company has more debt than equity. Lower is generally better, but some industries (like banking) naturally have higher D/E ratios. Zero or very low debt companies are considered financially safe.
+
+### Beta
+Measures a stock's volatility compared to the overall market (Nifty 50). Beta = 1: Stock moves in line with the market. Beta > 1: Stock is more volatile than the market (e.g., beta of 1.5 means if Nifty goes up 10%, the stock might go up 15%). Beta < 1: Stock is less volatile than the market. Negative beta: Stock moves opposite to the market (rare). Defensive stocks like FMCG and pharma typically have low beta.
+
+### Alpha
+Alpha measures the excess return of an investment relative to a benchmark index. If a fund returns 15% when Nifty returned 12%, the alpha is 3%. Positive alpha means the fund outperformed its benchmark. Negative alpha means it underperformed. In mutual funds, alpha indicates the fund manager's skill.
+
+## Mutual Fund Terms
+
+### AUM (Assets Under Management)
+The total market value of all investments managed by a mutual fund or AMC. Higher AUM generally indicates more investor trust. Very high AUM can sometimes make it difficult for fund managers to invest efficiently (especially in small-cap funds). Example: SBI Mutual Fund has the highest AUM in India.
+
+### Benchmark
+A standard index against which a fund's performance is measured. For a large-cap fund, the benchmark is usually Nifty 50 or Sensex. For a mid-cap fund, Nifty Midcap 150. A good fund should consistently beat its benchmark over 3-5 year periods.
+
+### Index Fund
+A mutual fund that passively tracks a market index (like Nifty 50). It holds the same stocks in the same proportion as the index. Very low expense ratio (0.1% - 0.5%). Returns closely mirror the index returns. No fund manager actively picking stocks. Recommended by many financial experts for beginner investors.
+
+### ETF (Exchange Traded Fund)
+Similar to an index fund but traded on the stock exchange like a regular stock. Can be bought and sold during market hours at real-time prices. Requires a Demat account. Examples: Nippon India Nifty 50 ETF, SBI ETF Nifty 50. Lower expense ratio than index funds, but may have liquidity and tracking issues.
+
+### SWP (Systematic Withdrawal Plan)
+The opposite of SIP — you withdraw a fixed amount from your mutual fund at regular intervals. Useful for generating regular income from investments. Example: You have ₹50 lakh in a mutual fund and withdraw ₹30,000/month via SWP. Common use: Creating retirement income from accumulated mutual fund corpus.
+
+### STP (Systematic Transfer Plan)
+Transferring a fixed amount from one mutual fund to another at regular intervals. Commonly used to move money from a liquid fund to an equity fund gradually. Example: You received a ₹10 lakh bonus. Park it in a liquid fund and set up STP to transfer ₹1 lakh/month to an equity fund. This provides rupee cost averaging for lump sum amounts.
+
+### CAGR (Compound Annual Growth Rate)
+The annual rate at which an investment grows, accounting for compounding. Formula: CAGR = (Ending Value / Beginning Value)^(1/Years) - 1. Example: Invested ₹1 lakh, worth ₹2 lakh after 5 years. CAGR = (2,00,000/1,00,000)^(0.2) - 1 = 14.87%. CAGR is the standard way to compare returns of different investments.
+
+### XIRR (Extended Internal Rate of Return)
+XIRR calculates the return on investments when there are multiple cash flows at irregular intervals. More accurate than CAGR for SIP investments (since you invest monthly). Most mutual fund platforms show XIRR for your SIP investments. Example: Your SIP returns may show XIRR of 15%, meaning each installment grew at 15% annualized from its investment date.
+
+### Sharpe Ratio
+Measures the risk-adjusted return of an investment. Formula: Sharpe Ratio = (Fund Return - Risk-Free Return) ÷ Standard Deviation. Higher Sharpe ratio means better risk-adjusted returns. A Sharpe ratio above 1 is considered good, above 2 is very good. Useful for comparing two funds with similar returns but different risk levels.
+
+## Trading Terms
+
+### 52-Week High/Low
+The highest and lowest prices at which a stock has traded in the last 52 weeks (1 year). Stocks near 52-week highs may indicate strong momentum. Stocks near 52-week lows may indicate weakness or a potential buying opportunity. Many investors use this as a screening criterion.
+
+### Volume
+The total number of shares traded during a specific time period. High volume with rising prices confirms a strong uptrend. High volume with falling prices confirms a strong downtrend. Low volume moves are less reliable and may reverse. Average daily volume helps assess a stock's liquidity.
+
+### Delivery Percentage
+The percentage of traded shares that were actually delivered to Demat accounts (as opposed to being squared off intraday). Higher delivery percentage (>50%) suggests genuine buying interest and investors holding for the longer term. Low delivery percentage indicates more speculative or intraday activity. Available on BSE and NSE websites.
+
+### Open Interest (OI)
+The total number of outstanding derivative contracts (futures or options) that have not been settled. Increasing OI with rising prices is bullish. Increasing OI with falling prices is bearish. Decreasing OI suggests trend weakening. Only applicable to F&O markets.
+
+### Upper Circuit and Lower Circuit
+Price limits set on individual stocks to prevent extreme price movements. Upper circuit: Maximum price a stock can reach in a day. Lower circuit: Minimum price a stock can fall to in a day. When a stock hits a circuit, trading is halted temporarily or for the day. Circuit limits can be 2%, 5%, 10%, or 20% depending on the stock.

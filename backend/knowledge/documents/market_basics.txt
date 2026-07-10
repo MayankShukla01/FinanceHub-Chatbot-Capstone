@@ -1,0 +1,118 @@
+# What is the Stock Market?
+
+The stock market is a platform where buyers and sellers come together to trade shares (also called stocks or equities) of publicly listed companies. When you buy a share of a company, you become a part-owner of that company. The stock market allows companies to raise capital by selling shares to investors, and it allows investors to participate in the financial growth of these companies.
+
+## How Does the Stock Market Work?
+
+Think of the stock market like a marketplace — just like a vegetable market where buyers and sellers negotiate prices, the stock market is where people buy and sell shares. The price of a share is determined by supply and demand. If more people want to buy a stock (demand), the price goes up. If more people want to sell (supply), the price goes down.
+
+When a company wants to raise money, it can "go public" by listing its shares on a stock exchange. Investors can then buy these shares through brokers. The company gets capital to grow its business, and investors get an opportunity to earn returns through price appreciation and dividends.
+
+## Stock Exchanges in India
+
+India has two major stock exchanges:
+
+### BSE (Bombay Stock Exchange)
+- Founded in 1875, BSE is the oldest stock exchange in Asia
+- Located at Dalal Street, Mumbai
+- Has over 5,000 listed companies
+- Its benchmark index is the Sensex (Sensitive Index)
+- BSE was the first exchange in India to receive permanent recognition from the Government of India in 1956
+
+### NSE (National Stock Exchange)
+- Established in 1992 and started trading in 1994
+- First fully electronic stock exchange in India
+- Has around 2,000+ listed companies
+- Its benchmark index is the Nifty 50
+- NSE handles the majority of trading volume in India
+- Introduced electronic screen-based trading, replacing the old open outcry system
+
+Both BSE and NSE are located in Mumbai and are regulated by SEBI.
+
+## SEBI — The Market Regulator
+
+SEBI (Securities and Exchange Board of India) is the regulatory authority for the securities market in India. Established in 1988 and given statutory powers in 1992 through the SEBI Act, its primary functions are:
+
+- **Protecting investors**: Ensuring fair practices and preventing fraud
+- **Regulating the market**: Setting rules for stock exchanges, brokers, and listed companies
+- **Developing the market**: Introducing new regulations to make markets more efficient and transparent
+
+SEBI ensures that companies disclose accurate financial information, brokers follow ethical practices, and insider trading is prevented. Think of SEBI as the "police" of the stock market — they make sure everyone plays fair.
+
+## Understanding Sensex
+
+Sensex (Sensitive Index) is the benchmark index of BSE. It consists of 30 of the largest and most actively traded stocks on the BSE. These 30 companies represent various sectors of the Indian economy.
+
+- **Calculation**: Sensex is calculated using the free-float market capitalization method
+- **Base year**: 1978-79, with a base value of 100
+- **Purpose**: It reflects the overall health of the Indian stock market
+- **Example**: If the Sensex goes from 60,000 to 62,000, it means the overall value of these 30 companies has increased, indicating positive market sentiment
+
+Some major companies in the Sensex include Reliance Industries, TCS, HDFC Bank, Infosys, and ITC.
+
+## Understanding Nifty 50
+
+Nifty 50 is the benchmark index of NSE. It consists of 50 of the largest and most liquid stocks listed on the NSE, representing 13 sectors of the Indian economy.
+
+- **Full name**: National Stock Exchange Fifty
+- **Calculation**: Free-float market capitalization-weighted method
+- **Base year**: November 3, 1995, with a base value of 1,000
+- **Purpose**: Represents the performance of the broader Indian stock market
+
+Both Sensex and Nifty are important indicators. When news channels say "the market went up today," they usually mean the Sensex or Nifty increased.
+
+## Indian Stock Market Hours
+
+The Indian stock market operates Monday to Friday (except on declared holidays). The trading day is structured as:
+
+| Session | Timing (IST) | Description |
+|---------|-------------|-------------|
+| Pre-open Session | 9:00 AM – 9:15 AM | Orders are collected and opening price is determined |
+| Normal Trading | 9:15 AM – 3:30 PM | Regular buying and selling of shares |
+| Closing Session | 3:30 PM – 3:40 PM | Closing price is determined |
+| Post-close Session | 3:40 PM – 4:00 PM | Trade modification/cancellation window |
+
+The pre-open session is designed to reduce volatility at market opening. During this 15-minute window, orders are collected and a single equilibrium price is calculated for each stock.
+
+## Circuit Breakers
+
+Circuit breakers are automatic safety mechanisms that halt trading when the market moves too sharply in either direction. In India:
+
+- **Index-level circuit breakers**: Trading is halted for the entire market if Sensex or Nifty moves by 10%, 15%, or 20% from the previous day's closing price
+- **Stock-level circuit filters**: Individual stocks have daily price bands (2%, 5%, 10%, or 20%) beyond which they cannot trade
+
+For example, if a stock has a 10% circuit limit and its previous close was ₹100, it can only trade between ₹90 and ₹110 on that day. These circuits protect investors from extreme volatility.
+
+## Market Participants
+
+The Indian stock market has several types of participants:
+
+1. **Retail Investors**: Individual investors like you and me who buy and sell shares for personal investment
+2. **Institutional Investors**: Large organizations that invest on behalf of others
+   - **FIIs/FPIs (Foreign Institutional Investors/Foreign Portfolio Investors)**: Foreign entities investing in Indian markets
+   - **DIIs (Domestic Institutional Investors)**: Indian mutual funds, insurance companies, pension funds
+3. **Brokers**: Licensed intermediaries who execute trades on behalf of investors (e.g., Zerodha, Groww, Angel One)
+4. **Market Makers**: Entities that provide liquidity by continuously offering to buy and sell
+5. **SEBI**: The regulatory authority overseeing all market activities
+
+## Types of Markets
+
+- **Primary Market**: Where companies issue new shares for the first time (IPOs). Money goes directly to the company.
+- **Secondary Market**: Where existing shares are traded between investors. This is what people commonly refer to as "the stock market." Money goes from one investor to another.
+
+## Why Invest in the Stock Market?
+
+1. **Wealth Creation**: Historically, Indian stock markets have delivered 12-15% annual returns over the long term, beating inflation and fixed deposits
+2. **Ownership**: You become a part-owner of companies you believe in
+3. **Liquidity**: You can buy and sell shares quickly during market hours
+4. **Dividend Income**: Some companies share their profits with shareholders as dividends
+5. **Beating Inflation**: Stock returns typically outpace inflation, preserving your purchasing power
+
+## Risks to Be Aware Of
+
+- **Market Risk**: Stock prices can go down, and you may lose money
+- **Volatility**: Prices can fluctuate significantly in the short term
+- **Company Risk**: A specific company may perform poorly
+- **No Guaranteed Returns**: Unlike FDs, there is no guarantee of returns
+
+The key principle for beginners is: **Invest for the long term, diversify your investments, and never invest money you cannot afford to lose.**

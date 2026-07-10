@@ -1,0 +1,181 @@
+# Bonds and Savings Instruments in India
+
+## Government Bonds (G-Sec)
+
+Government Securities (G-Sec) are debt instruments issued by the Government of India to raise money. When you buy a G-Sec, you're essentially lending money to the government, and they pay you interest.
+
+**Key features:**
+- Issued by the Reserve Bank of India (RBI) on behalf of the government
+- Considered the safest investment (sovereign guarantee — government cannot default)
+- Fixed interest rate (coupon rate) paid semi-annually
+- Available in various tenures: 5, 10, 15, 20, 30, and 40 years
+- Can be bought through RBI Retail Direct, stock brokers, or banks
+- Minimum investment: ₹10,000
+
+**Types of Government Securities:**
+1. **Fixed Rate Bonds**: Pay a fixed coupon rate throughout the tenure
+2. **Floating Rate Bonds (FRBs)**: Interest rate changes periodically based on a benchmark
+3. **State Development Loans (SDLs)**: Issued by state governments, slightly higher yields
+
+### Treasury Bills (T-Bills)
+
+T-Bills are short-term government securities with maturity periods of 91 days, 182 days, or 364 days.
+
+- Issued at a discount to face value (e.g., buy at ₹97, get ₹100 at maturity)
+- No periodic interest payment — your return is the difference between purchase price and face value
+- Very safe and liquid
+- Minimum investment: ₹25,000
+- Auctioned by RBI weekly
+
+## Sovereign Gold Bonds (SGBs)
+
+Sovereign Gold Bonds are government securities denominated in grams of gold. They are an alternative to holding physical gold.
+
+**Key features:**
+- Issued by RBI on behalf of the Government of India
+- Denominated in grams of gold (minimum 1 gram)
+- Maximum investment: 4 kg per individual per financial year
+- Tenure: 8 years (with exit option after 5th year)
+- Interest: 2.5% per annum on the issue price (paid semi-annually)
+- Capital gains tax exemption if held till maturity
+- No storage or purity concerns (unlike physical gold)
+- Can be traded on stock exchanges
+
+**How to buy SGBs:**
+- Through banks, post offices, stock exchanges, and Stock Holding Corporation
+- Online purchase gives ₹50 discount per gram
+- Issued in tranches by RBI (announced periodically)
+
+**Example**: If you buy 10 grams of SGB at ₹5,000/gram (₹50,000 total), you earn 2.5% interest (₹1,250/year) plus any increase in gold price. If gold rises to ₹6,500/gram at maturity, your investment is worth ₹65,000 + interest earned.
+
+## Public Provident Fund (PPF)
+
+PPF is one of India's most popular long-term savings schemes, backed by the government.
+
+**Key features:**
+- Current interest rate: 7.1% per annum (compounded annually, revised quarterly by the government)
+- Tenure: 15 years (can be extended in blocks of 5 years)
+- Minimum investment: ₹500 per year
+- Maximum investment: ₹1,50,000 per year
+- Tax benefits under Section 80C (investment is tax-deductible)
+- Interest earned is completely tax-free
+- Maturity amount is also tax-free (EEE — Exempt, Exempt, Exempt)
+- Partial withdrawal allowed after 7 years
+- Loan facility available from 3rd to 6th year
+
+**PPF falls under the EEE (Exempt-Exempt-Exempt) tax category:**
+- Investment is exempt (Section 80C deduction)
+- Interest earned is exempt
+- Maturity amount is exempt
+
+**Where to open PPF:**
+- Post offices
+- Banks (SBI, HDFC, ICICI, etc.)
+- Online through net banking
+
+**Best for**: Conservative investors looking for guaranteed, tax-free returns over 15+ years.
+
+## National Pension System (NPS)
+
+NPS is a government-backed retirement savings scheme designed to provide pension after retirement.
+
+**Key features:**
+- Open to all Indian citizens aged 18-70 years
+- Two types of accounts:
+  - **Tier-I**: Main pension account (restricted withdrawal, tax benefits)
+  - **Tier-II**: Voluntary savings account (flexible withdrawal, no special tax benefits)
+- Investment options: Equity (up to 75%), Corporate Bonds, Government Bonds, Alternative Assets
+- Very low fund management charges (0.01% - 0.09%)
+- Tax benefits:
+  - Section 80CCD(1): Up to ₹1.5 lakh (within 80C limit)
+  - Section 80CCD(1B): Additional ₹50,000 deduction (over and above 80C)
+  - Total tax benefit possible: ₹2,00,000
+- At retirement (age 60): Minimum 40% must be used to buy annuity, 60% can be withdrawn tax-free
+- Lock-in until age 60 (with limited withdrawal options for specific purposes)
+
+**Pension Fund Managers**: SBI Pension Fund, LIC Pension Fund, HDFC Pension Fund, Kotak Pension Fund, etc.
+
+**Best for**: Long-term retirement planning with additional tax benefits beyond Section 80C.
+
+## Employees' Provident Fund (EPF)
+
+EPF is a mandatory retirement savings scheme for salaried employees.
+
+**Key features:**
+- Both employee and employer contribute 12% of basic salary each month
+- Current interest rate: 8.25% per annum (for FY 2023-24)
+- Managed by EPFO (Employees' Provident Fund Organisation)
+- Employee contribution qualifies for Section 80C deduction
+- Interest and maturity are tax-free (if service > 5 years)
+- Can be withdrawn fully on retirement, resignation (after 2 months), or for specific purposes (home purchase, medical emergency, education)
+- Accessible via UMANG app and EPFO portal
+
+**EPF vs PPF:**
+| Feature | EPF | PPF |
+|---------|-----|-----|
+| Eligibility | Salaried employees | Anyone |
+| Interest Rate | 8.25% | 7.1% |
+| Employer Contribution | Yes (12%) | No |
+| Lock-in | Until retirement | 15 years |
+| Tax Benefit | Section 80C | Section 80C |
+
+## Fixed Deposits (FDs)
+
+Fixed Deposits are the most traditional savings instrument in India, offered by banks and NBFCs.
+
+**Key features:**
+- Fixed interest rate for a fixed tenure (7 days to 10 years)
+- Current FD rates: 6% - 7.5% (varies by bank and tenure)
+- Interest can be paid monthly, quarterly, or at maturity (cumulative)
+- Premature withdrawal allowed with a penalty (0.5% - 1%)
+- Deposit insurance up to ₹5 lakh per bank (DICGC insurance)
+- Senior citizens get 0.25% - 0.50% extra interest
+- Tax-saver FD (5-year lock-in) qualifies for Section 80C
+
+**Important**: FD interest is fully taxable. TDS (Tax Deducted at Source) is deducted at 10% if interest exceeds ₹40,000/year (₹50,000 for senior citizens).
+
+**Popular banks for FDs**: SBI, HDFC Bank, ICICI Bank, Axis Bank, and small finance banks (which offer higher rates).
+
+## RBI Retail Direct
+
+RBI Retail Direct is a platform launched by the Reserve Bank of India that allows individual investors to buy government securities directly.
+
+**Key features:**
+- Free to open and maintain
+- Buy G-Sec, T-Bills, SGBs, and SDLs directly from RBI
+- No intermediary charges
+- Accessible via rbiretaildirect.org.in
+- KYC through PAN, Aadhaar, and bank account
+- Securities held in a Subsidiary General Ledger (SGL) account with RBI
+
+**How to open:**
+1. Visit rbiretaildirect.org.in
+2. Register with PAN, Aadhaar, bank account, and Demat details
+3. Complete video KYC
+4. Start buying government securities in primary auctions or secondary market
+
+## Corporate Bonds
+
+Corporate bonds are debt instruments issued by companies to raise capital.
+
+**Key features:**
+- Higher interest rates than government bonds (8% - 12% typical)
+- Higher risk than G-Sec (depends on company's creditworthiness)
+- Credit rating by agencies like CRISIL, ICRA, CARE (AAA is safest, D is default)
+- Available on stock exchanges and through brokers
+- Interest is taxable as income
+
+**Risk tip**: Only invest in bonds rated AA or above. Lower-rated bonds offer higher returns but carry significant default risk.
+
+## Comparison Table
+
+| Instrument | Returns | Lock-in | Risk | Tax Benefit | Min. Investment |
+|-----------|---------|---------|------|------------|----------------|
+| PPF | 7.1% | 15 years | Very Low | 80C + EEE | ₹500/year |
+| NPS | 8-12% (market-linked) | Till 60 | Low-Medium | 80CCD(1B) extra ₹50K | ₹500/year |
+| EPF | 8.25% | Till retirement | Very Low | 80C | 12% of basic |
+| FD | 6-7.5% | 7 days - 10 years | Very Low | 80C (5-yr FD) | ₹1,000 |
+| G-Sec | 7-7.5% | 5-40 years | Negligible | None | ₹10,000 |
+| SGB | Gold price + 2.5% | 8 years | Low | Tax-free at maturity | 1 gram |
+| T-Bills | 6-7% | 91-364 days | Negligible | None | ₹25,000 |
+| Corp Bonds | 8-12% | Varies | Medium-High | None | Varies |
