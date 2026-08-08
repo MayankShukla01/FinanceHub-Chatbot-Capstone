@@ -18,12 +18,12 @@ from app.routes.chat import router as chat_router
 async def lifespan(app: FastAPI):
     """Application lifespan handler — initializes RAG engine on startup."""
     # Startup: Initialize the RAG engine
-    print("\n🚀 Starting FinanceHub Backend...")
+    print("\n[*] Starting FinanceHub Backend...")
     rag_engine.initialize()
-    print("✅ FinanceHub Backend is ready!\n")
+    print("[OK] FinanceHub Backend is ready!\n")
     yield
     # Shutdown: Cleanup if needed
-    print("\n👋 Shutting down FinanceHub Backend...")
+    print("\n[*] Shutting down FinanceHub Backend...")
 
 
 app = FastAPI(

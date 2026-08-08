@@ -1,81 +1,91 @@
-import { useState, useEffect } from 'react';
-import { ArrowRight, Sparkles, BookOpen } from 'lucide-react';
-
-const words = ['Indian Stock Market', 'Mutual Funds', 'SIP Investments', 'Financial Freedom'];
+import { useState, useEffect, useRef } from 'react';
+import { ArrowDown, Sparkles } from 'lucide-react';
+import TiltCard from '../effects/TiltCard';
 
 export default function HeroSection() {
-  const [wordIndex, setWordIndex] = useState(0);
-  const [fade, setFade] = useState(true);
+  const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
+  const sectionRef = useRef(null);
 
   useEffect(() => {
-    const interval = setInterval(() => {
-      setFade(false);
-      setTimeout(() => {
-        setWordIndex(i => (i + 1) % words.length);
-        setFade(true);
-      }, 400);
-    }, 3000);
-    return () => clearInterval(interval);
+    const handleMouse = (e) => {
+      if (!sectionRef.current) return;
+      const rect = sectionRef.current.getBoundingClientRect();
+      setMousePos({
+        x: (e.clientX - rect.left) / rect.width - 0.5,
+        y: (e.clientY - rect.top) / rect.height - 0.5,
+      });
+    };
+    const el = sectionRef.current;
+    if (el) el.addEventListener('mousemove', handleMouse);
+    return () => { if (el) el.removeEventListener('mousemove', handleMouse); };
   }, []);
 
-  const scrollTo = (id) => document.querySelector(id)?.scrollIntoView({ behavior: 'smooth' });
-
   return (
-    <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      {/* Animated background */}
-      <div className="absolute inset-0 dark:bg-hero-dark bg-hero-light animate-gradient" />
+    <section ref={sectionRef} className="relative min-h-[85vh] flex items-center justify-center overflow-hidden pt-16">
+      {/* Background gradient mesh */}
+      <div className="absolute inset-0 dark:bg-dark-base bg-light-base" />
+      <div className="absolute inset-0 opacity-30 dark:opacity-100">
+        <div
+          className="absolute w-[500px] h-[500px] rounded-full blur-[120px] dark:bg-mint/[0.04] bg-mint/[0.08]"
+          style={{ left: '20%', top: '20%', transform: `translate(${mousePos.x * 30}px, ${mousePos.y * 30}px)` }}
+        />
+        <div
+          className="absolute w-[400px] h-[400px] rounded-full blur-[100px] dark:bg-blue/[0.05] bg-blue/[0.06]"
+          style={{ right: '15%', bottom: '20%', transform: `translate(${mousePos.x * -20}px, ${mousePos.y * -20}px)` }}
+        />
+        <div
+          className="absolute w-[300px] h-[300px] rounded-full blur-[80px] dark:bg-violet/[0.04] bg-violet/[0.05]"
+          style={{ left: '50%', top: '10%', transform: `translate(${mousePos.x * 15}px, ${mousePos.y * 15}px)` }}
+        />
+      </div>
 
-      {/* Floating decorative elements */}
-      <div className="absolute top-20 left-10 w-72 h-72 bg-accent-green/5 rounded-full blur-3xl animate-float" />
-      <div className="absolute bottom-20 right-10 w-96 h-96 bg-accent-blue/5 rounded-full blur-3xl animate-float" style={{ animationDelay: '3s' }} />
-      <div className="absolute top-1/2 left-1/3 w-48 h-48 bg-accent-green/3 rounded-full blur-2xl animate-float" style={{ animationDelay: '1.5s' }} />
+      {/* Floating interactive orbs */}
+      <div
+        className="absolute w-2 h-2 rounded-full bg-mint/40 animate-float"
+        style={{ left: '15%', top: '30%', transform: `translate(${mousePos.x * 50}px, ${mousePos.y * 50}px)`, animationDelay: '0s' }}
+      />
+      <div
+        className="absolute w-1.5 h-1.5 rounded-full bg-blue/40 animate-float"
+        style={{ right: '20%', top: '25%', transform: `translate(${mousePos.x * -40}px, ${mousePos.y * -40}px)`, animationDelay: '2s' }}
+      />
+      <div
+        className="absolute w-1 h-1 rounded-full bg-violet/50 animate-float"
+        style={{ left: '70%', bottom: '30%', transform: `translate(${mousePos.x * 60}px, ${mousePos.y * 60}px)`, animationDelay: '4s' }}
+      />
+      <div
+        className="absolute w-2.5 h-2.5 rounded-full bg-mint/20 animate-float"
+        style={{ left: '30%', bottom: '25%', transform: `translate(${mousePos.x * -35}px, ${mousePos.y * -35}px)`, animationDelay: '1s' }}
+      />
 
-      <div className="relative z-10 max-w-5xl mx-auto px-4 text-center">
-        {/* Badge */}
-        <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full dark:bg-surface-dark bg-white/60 dark:border-border-dark border-border-light border mb-8 animate-fade-in">
-          <Sparkles className="w-4 h-4 text-accent-green" />
-          <span className="text-sm dark:text-text-muted text-text-dark-muted">Powered by AI & RAG Technology</span>
-        </div>
+      {/* Content */}
+      <div className="relative z-10 max-w-3xl mx-auto px-6 text-center">
+        <TiltCard className="inline-block">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full dark:bg-dark-card bg-white border dark:border-border-dark border-border-light mb-8 animate-fade-in">
+            <Sparkles className="w-3.5 h-3.5 text-mint" />
+            <span className="text-xs dark:text-text-dim text-text-dark-dim font-medium">Your go-to for Indian stock market basics</span>
+          </div>
+        </TiltCard>
 
-        {/* Heading */}
-        <h1 className="font-heading text-4xl sm:text-5xl lg:text-7xl font-bold mb-6 animate-slide-up">
-          <span className="dark:text-white text-text-dark">Your AI-Powered Guide to the</span>
+        <h1 className="font-heading text-4xl sm:text-5xl lg:text-6xl font-bold mb-5 animate-slide-up leading-tight">
+          <span className="dark:text-text-white text-text-dark">Learn Finance,</span>
           <br />
-          <span className={`text-gradient-green inline-block transition-all duration-400 ${fade ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
-            {words[wordIndex]}
-          </span>
+          <span className="text-gradient">Without the Jargon</span>
         </h1>
 
-        {/* Subtitle */}
-        <p className="text-lg sm:text-xl dark:text-text-muted text-text-dark-muted max-w-2xl mx-auto mb-10 animate-slide-up" style={{ animationDelay: '0.2s' }}>
-          Learn finance the smart way. Ask questions, explore topics, and build your financial knowledge with AI — designed for Indian investors.
+        <p className="text-base sm:text-lg dark:text-text-dim text-text-dark-dim max-w-lg mx-auto mb-10 animate-slide-up leading-relaxed" style={{ animationDelay: '0.15s' }}>
+          SIP, mutual funds, IPOs, taxation — whatever you're curious about, just ask. No sign-up, no fluff.
         </p>
 
-        {/* CTA Buttons */}
-        <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12 animate-slide-up" style={{ animationDelay: '0.4s' }}>
-          <button
-            onClick={() => scrollTo('#chat')}
-            className="px-8 py-3.5 bg-gradient-to-r from-accent-green to-accent-green-dark text-navy font-semibold rounded-xl hover:shadow-lg hover:shadow-accent-green/25 transition-all duration-300 hover:scale-105 flex items-center gap-2 cursor-pointer"
-          >
-            Start Chatting <ArrowRight className="w-4 h-4" />
-          </button>
-          <button
-            onClick={() => scrollTo('#topics')}
-            className="px-8 py-3.5 border-2 border-accent-green dark:text-accent-green text-accent-green-dark rounded-xl hover:bg-accent-green hover:text-navy transition-all duration-300 hover:scale-105 flex items-center gap-2 font-semibold cursor-pointer"
-          >
-            <BookOpen className="w-4 h-4" /> Explore Topics
-          </button>
-        </div>
-
-        {/* Stats */}
-        <div className="flex items-center justify-center gap-6 sm:gap-10 animate-slide-up" style={{ animationDelay: '0.6s' }}>
-          {['45+ Topics', 'Powered by AI', '100% Free'].map((stat, i) => (
-            <div key={stat} className="flex items-center gap-2">
-              {i > 0 && <div className="w-1 h-1 rounded-full bg-accent-green" />}
-              <span className="text-sm dark:text-text-muted text-text-dark-muted font-medium">{stat}</span>
-            </div>
-          ))}
-        </div>
+        <button
+          onClick={() => document.querySelector('#chat')?.scrollIntoView({ behavior: 'smooth' })}
+          className="animate-slide-up group cursor-pointer"
+          style={{ animationDelay: '0.3s' }}
+        >
+          <div className="flex items-center gap-2 text-sm dark:text-text-dim text-text-dark-dim hover:text-mint dark:hover:text-mint transition-colors">
+            <span>Jump in</span>
+            <ArrowDown className="w-4 h-4 group-hover:translate-y-1 transition-transform" />
+          </div>
+        </button>
       </div>
     </section>
   );

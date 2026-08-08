@@ -16,4 +16,9 @@ export async function getTopics() {
   return data;
 }
 
+export async function getMarketData() {
+  const { data } = await api.get('/market-data');
+  return data;
+}
+
 export default api;
