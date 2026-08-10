@@ -19,7 +19,7 @@ class RAGEngine:
         self.initialized = False
 
     def initialize(self):
-        """Initialize all RAG components: load/build index and set up LLM."""
+        """Initialize all RAG components: set up LLM, defer model loading."""
         print("=" * 60)
         print("Initializing FinanceHub RAG Engine...")
         print("=" * 60)
@@ -27,8 +27,8 @@ class RAGEngine:
         # Initialize LLM client
         llm_client.initialize()
 
-        # Load embedding model
-        embedding_model.load()
+        # Embedding model will lazy-load on first query
+        print("Embedding model will load on first query...")
 
         # Try to load existing FAISS index
         if vector_store.load_index():
@@ -39,7 +39,7 @@ class RAGEngine:
 
         self.initialized = True
         print("=" * 60)
-        print("FinanceHub RAG Engine initialized successfully!")
+        print("FinanceHub RAG Engine ready!")
         print("=" * 60)
 
     def _build_index(self):
