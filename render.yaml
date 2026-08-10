@@ -1,4 +1,5 @@
 services:
+  # ── Backend (FastAPI) ──
   - type: web
     name: financehub-api
     runtime: python
@@ -12,3 +13,21 @@ services:
         sync: false
       - key: PYTHON_VERSION
         value: "3.11.0"
+
+  # ── Frontend (React Static Site) ──
+  - type: web
+    name: financehub-web
+    runtime: static
+    region: oregon
+    plan: free
+    buildCommand: "npm install && npm run build"
+    staticPublishPath: dist
+    rootDir: frontend
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: public, max-age=3600
